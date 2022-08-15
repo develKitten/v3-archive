@@ -10,6 +10,18 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: "Castellar"; 
+    src: url("//db.onlinewebfonts.com/t/0407ed4aef00d4db57f6001e710e0a85.eot"); 
+    src: url("//db.onlinewebfonts.com/t/0407ed4aef00d4db57f6001e710e0a85.eot?#iefix") 
+        format("embedded-opentype"), 
+        url("//db.onlinewebfonts.com/t/0407ed4aef00d4db57f6001e710e0a85.woff2") 
+        format("woff2"), url("//db.onlinewebfonts.com/t/0407ed4aef00d4db57f6001e710e0a85.woff") 
+        format("woff"), url("//db.onlinewebfonts.com/t/0407ed4aef00d4db57f6001e710e0a85.ttf") 
+        format("truetype"), url("//db.onlinewebfonts.com/t/0407ed4aef00d4db57f6001e710e0a85.svg#Castellar") 
+        format("svg"); 
+}
+
 body {
     margin: 0px;
     background-color: rgb(0, 0, 0);
