@@ -36,7 +36,7 @@ a:link, a:hover, a:visited {
 .title {
     margin-left: 20px;
     font-size: 30px;
-    font-family: Castellar;
+    font-family: 'castellar-regular', sans-serif;
     color: white;
     
 }
