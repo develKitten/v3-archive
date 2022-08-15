@@ -48,6 +48,10 @@ a:link, a:hover, a:visited {
     font-family: 'ChosunNm';
 }
 
+@media ( max-width: 768px ) {
+    .items { display: none; }
+  }
+
 .button {
     color: white;
     font-size: 20px;
