@@ -83,7 +83,7 @@ a:link, a:hover, a:visited {
 }
 
 object {
-    min-width: 640px; min-height: 460px;
+    width: 640px; height: 460px;
     margin-left: 0px;
     margin-right:0px ;
 }
